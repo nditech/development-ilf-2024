@@ -181,7 +181,7 @@
   }
   
   .parallax1 {
-    background-image: url("../img/ILFChicago.jpeg");
+    background-image: url("../img/ILF_Website_Hero_Image.png");
     height: 800px;
     background-attachment: fixed;
     background-position: center;
@@ -190,7 +190,7 @@
   }
   
   .parallax2 {
-    background-image: url("../img/ILFChicago.jpeg");
+    background-image: url("../img/ILF_Website_Hero_Image.png");
     height: 100%;
     background-attachment: fixed;
     background-position: center;
@@ -199,6 +199,10 @@
     padding: inherit;
   }
   
+  .head-text {
+    background-color: transparent;
+    margin-top: 50px;
+  }
   .child-header {
       background: #053967;
       height:200px;
@@ -256,7 +260,7 @@
       text-align: center;
     }
     .parallax1 {
-      background-image: url("../img/ILFChicago.jpeg");
+      background-image: url("../img/ILF_Website_Hero_Image.png");
       height: 800px;
       background-attachment: fixed;
       background-position: center;
@@ -337,7 +341,12 @@
     letter-spacing: .15rem;
     border: 0;
   }
-  
+  a.learn-btn {
+    background-color: #F6AA02;
+    color: #000;
+    margin-top: 275px;
+    padding: 1.25rem 2 rem;
+  }
   .btn-primary {
     background-color: #053967;
   }
