@@ -584,3 +584,10 @@ margin: 0;
   font-size: 20px;
   padding-left: 5px;
 }
+
+.nextgen-btn {
+  background-color: #F6AA02;
+    color: #000;
+    margin-top: 25px;
+    padding: 1.25rem 2 rem;
+}
