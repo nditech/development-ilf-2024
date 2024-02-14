@@ -371,7 +371,22 @@
   .about-section p {
     margin-bottom: 5rem;
   }
-  
+.about-list{
+  flex-direction: column;
+  flex-wrap: wrap;
+  display: flex;
+  height: 100vh;
+padding: 0;
+margin: 0;
+  }
+
+  .about-list li{
+  display: flex;
+  gap: 10px;
+  gap: 20px 20px; /* row-gap column gap */
+  row-gap: 10px;
+  column-gap: 20px;
+  }
   .projects-section {
     padding: 5rem 0;
   }
