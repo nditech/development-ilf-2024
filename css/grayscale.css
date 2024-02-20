@@ -312,6 +312,7 @@
       height: 475px;*/
   .agenda-box {
         height: 250px;
+        text-align: left !important;
         overflow: scroll;
       overflow-x: hidden;
     
@@ -368,7 +369,7 @@
     padding-top: 10rem;
     background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
   }
-  
+
   .about-section p {
     margin-bottom: 5rem;
   }
