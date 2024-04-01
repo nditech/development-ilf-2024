@@ -323,6 +323,7 @@
   @media only screen and (max-device-width: 425px) {
       .agenda-box {
       height: 390px;
+      overflow-y: auto;
       }
       
       .agenda-nav {
