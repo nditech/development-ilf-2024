@@ -315,7 +315,7 @@
         text-align: left !important;
         margin-top: 30px;
         margin-bottom: 200px;
-       overflow: none;
+       /*overflow: none;*/
      /*overflow-y: hidden;*/
     
   }  
