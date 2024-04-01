@@ -314,16 +314,16 @@
         height: 350px;
         text-align: left !important;
         margin-top: 30px;
-        margin-bottom: 300px;
-       /*overflow: fixed;
-     overflow-y: hidden;*/
+        margin-bottom: 200px;
+       overflow: none;
+     /*overflow-y: hidden;*/
     
   }  
   
   @media only screen and (max-device-width: 425px) {
       .agenda-box {
-      height: 390px;
-      overflow-y: auto;
+      height: 100%;
+      
       }
       
       .agenda-nav {
