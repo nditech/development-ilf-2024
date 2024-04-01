@@ -307,23 +307,20 @@
   }
   
   
-  
-  /*.agenda-box {
-      height: 475px;*/
+ 
   .agenda-box {
         height: 350px;
         text-align: left !important;
         margin-top: 30px;
         margin-bottom: 30px;
-       /*overflow: none;*/
-     /*overflow-y: hidden;*/
+     
     
   }  
   
   @media only screen and (max-device-width: 425px) {
       .agenda-box {
       height: 100%;
-      
+      margin-bottom: 20px;
       }
       
       .agenda-nav {
