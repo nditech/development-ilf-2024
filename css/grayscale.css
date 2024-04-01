@@ -314,8 +314,9 @@
         height: 350px;
         text-align: left !important;
         margin-top: 30px;
-       overflow: none;
-      overflow-x: hidden;
+        margin-bottom: 300px;
+       /*overflow: fixed;
+     overflow-y: hidden;*/
     
   }  
   
