@@ -181,7 +181,7 @@
 }
 
 .parallax1 {
-  background-image: url("../img/ILF_Website_Hero_Image.png");
+  background-image: url("../img/ILfWebsitebackground.png");
   height: 800px;
   background-attachment: fixed;
   background-position: center;
@@ -260,7 +260,7 @@
     text-align: center;
   }
   .parallax1 {
-    background-image: url("../img/ILF_Website_Hero_Image.png");
+    background-image: url("../img/ILfWebsitebackground.png");
     height: 800px;
     background-attachment: fixed;
     background-position: center;
